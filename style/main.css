@@ -61,11 +61,11 @@ header {
 
 @keyframes next {
   0% {
-    background-image: url(../Photo/Lifta-61.jpg); }
+    background-image: url(.\photo/Lifta-61.jpg); }
   50% {
-    background-image: url(../Photo/taos.jpg); }
+    background-image: url(.\photo/taos.jpg); }
   100% {
-    background-image: url(../Photo/tiguan.jpg); } }
+    background-image: url(.\photo/tiguan.jpg); } }
 .center {
   background-repeat: no-repeat;
   background-size: cover;
